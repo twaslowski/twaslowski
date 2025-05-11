@@ -12,7 +12,7 @@ you would like to remember as flashcards to later study in [Anki](https://apps.a
 
 You can find the source code here: [Link](https://github.com/twaslowski/grammr).
 
-## moody
+## [moody](https://moody.twaslowski.com)
 
 I have also written a Telegram-based, highly customizable [Mood Tracker](https://github.com/twaslowski/open-mood-tracker)
 that can be used as part of behavioural therapy for people working with a variety of mood disorders, or
