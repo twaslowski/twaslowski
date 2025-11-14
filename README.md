@@ -14,10 +14,10 @@ You can find the source code [here](https://github.com/twaslowski/grammr).
 
 ## [moody](https://moody.twaslowski.com)
 
-I have also written a Telegram-based, highly customizable Mood Tracker.
-that can be used as part of behavioural therapy for people working with a variety of mood disorders, or
+A highly customizable mood tracker, written in NextJS with Supabase for authentication and storage and including a lightweight Telegram integration.
+Can be used as part of behavioural therapy for people working with a variety of mood disorders, or
 for anyone trying to reach a higher degree of emotional intelligence.
-You can find the source code [here](https://github.com/twaslowski/open-mood-tracker).
+You can find the source code [here](https://github.com/twaslowski/openmood-tracker).
 
 ### CV
 
