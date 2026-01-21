@@ -13,10 +13,10 @@ You can find the source code at [twaslowski/pulselog](https://github.com/twaslow
 ## [grammr](https://grammr.app)
 
 Imagine a translator meeting a dictionary meeting study notes: You can translate sentences,
-understand the translations in-depth in terms of vocabulary and grammar, and store everything
-you would like to remember as flashcards to later study in [Anki](https://apps.ankiweb.net/).
+understand the translations in-depth in terms of vocabulary and grammar. Additionally, you
+get to generate conjugation and declension tables **and** create and study your own flashcards!
 
-You can find the source code [here](https://github.com/twaslowski/grammr).
+You can find the source code [here](https://github.com/twaslowski/grammr-serverless).
 
 ### CV
 
