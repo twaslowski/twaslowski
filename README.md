@@ -1,8 +1,13 @@
 ## Hi there 👋
 
-I'm a Software Engineer with a strong focus on DevOps based in Hamburg, Germany.
-You can usually find me working on one or several passion projects at any given time.
-Here's a few cool ones:
+I'm a DevOps Engineer with deep experience in AWS and Kubernetes.
+I'm usually working on some passion projects after working hours.
+Here's a few cool ones.
+
+## [Photo Blog](https://photography.twaslowski.com)
+
+I'm currently living as a digital nomad and using photography as my creative outlet.
+I built my own blog on Hugo, Cloudflare and Backblaze B2. You can find its source code at [twaslowski/photo-gallery](https://github.com/twaslowski/photo-gallery).
 
 ## [Pulselog](https://pulselog.me)
 
